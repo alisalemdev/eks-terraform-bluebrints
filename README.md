@@ -1,1 +1,1 @@
-# eks-terraform-bluebrints
+# AWS EKS Terraform bluebrints
